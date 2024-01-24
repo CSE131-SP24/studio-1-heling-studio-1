@@ -2,7 +2,7 @@ package studio1;
 
 import java.util.Scanner;
 
-public class HiOne {
+public class HiOne{
 
 	/**
 	 * Says hello to the supplied argument
@@ -17,7 +17,10 @@ public class HiOne {
 		//      Hi, Pat.  How are you?
 		// if the value of name is "Pat"
 		//
-
-	}
-
+System.out.print(("Hi Iris. How are you?"));
 }
+}
+
+	
+
+
